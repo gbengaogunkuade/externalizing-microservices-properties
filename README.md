@@ -1,5 +1,5 @@
 # externalizing-microservices-properties
-Externalizing Microservices Properties Developed By **Gbenga Ogunkuade**
+Externalizing Microservices Properties Developed By **Gbenga Ogunkuade** 🙂
 
 This mini PROJECT consists of 6 Microservices
 - Gateway Server
